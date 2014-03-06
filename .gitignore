@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 venv
 *.pyc
 staticfiles
 
+=======
+*.log
+*.pot
+*.pyc
+local_settings.py
+>>>>>>> fe31be8ba75beaef9920595e19babbcf49aa0745
